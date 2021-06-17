@@ -20,7 +20,7 @@ nav{
 }
 .menu{
     width: 1024px;
-    border:  0px solid blue;
+    border:  0px solid white;
     display: flex;
     align-items: center;
 }
